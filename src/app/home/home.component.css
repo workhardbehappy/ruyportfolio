@@ -1,0 +1,17 @@
+.jumbotron{    
+    background: url("../../assets/images/macbook.jpg") no-repeat center center;
+    background-size: cover;
+    height: 80vh;
+}
+
+.hero{
+    font-size: 60px;
+    font-family: 'Ubuntu', sans-serif;
+    padding-top: 20%;
+}
+
+.slideInRight{
+    animation-delay: 1s;
+}
+
+
